@@ -82,7 +82,7 @@ const Home: React.FC = () => {
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           {t('Cupid Coins')}
         </Heading>
-        <Text>{t('wasusup test')}</Text>
+        <Text>{t('cock test')}</Text>
       </Hero>
       <div>
         <Cards>
