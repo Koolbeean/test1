@@ -82,7 +82,11 @@ const Home: React.FC = () => {
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           {t('Cupid Coins')}
         </Heading>
+<<<<<<< HEAD
         <Text>{t('Just want to say Hi')}</Text>
+=======
+        <Text>{t('cock test')}</Text>
+>>>>>>> parent of 6a6ceef (Update Home.tsx)
       </Hero>
       <div>
         <Cards>
