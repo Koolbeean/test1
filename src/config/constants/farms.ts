@@ -9,8 +9,8 @@ const farms: FarmConfig[] = [
     pid: 0,
     lpSymbol: 'COC',
     lpAddresses: {
-      97: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
-      56: '',
+      97: '',
+      56: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
     },
     token: tokens.syrup,
     quoteToken: tokens.wbnb,
@@ -19,8 +19,8 @@ const farms: FarmConfig[] = [
     pid: 251,
     lpSymbol: 'COC',
     lpAddresses: {
-      97: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
-      56: '',
+      97: '',
+      56: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
     },
     token: tokens.COC,
     quoteToken: tokens.wbnb,
@@ -29,8 +29,8 @@ const farms: FarmConfig[] = [
     pid: 252,
     lpSymbol: 'COC',
     lpAddresses: {
-      97: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
-      56: '',
+      97: '',
+      56: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
     },
     token: tokens.busd,
     quoteToken: tokens.wbnb,
