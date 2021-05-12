@@ -9,8 +9,8 @@ const farms: FarmConfig[] = [
     pid: 0,
     lpSymbol: 'COC',
     lpAddresses: {
-      97: '',
-      56: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
+      97: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
+      56: '',
     },
     token: tokens.syrup,
     quoteToken: tokens.wbnb,
@@ -19,8 +19,8 @@ const farms: FarmConfig[] = [
     pid: 251,
     lpSymbol: 'COC',
     lpAddresses: {
-      97: '',
-      56: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
+      97: '0xd8b522DBcA4B4E0ba99be9cE8920048291bdE7F0',
+      56: '',
     },
     token: tokens.COC,
     quoteToken: tokens.wbnb,
@@ -486,6 +486,7 @@ const farms: FarmConfig[] = [
       56: '0x678EDb8B268e73dB57b7694c163e1dc296b6e219',
     },
     token: tokens.dusk,
+<<<<<<< HEAD
     quoteToken: tokens.wbnb,
   },
   {
@@ -499,6 +500,21 @@ const farms: FarmConfig[] = [
     quoteToken: tokens.wbnb,
   },
   {
+=======
+    quoteToken: tokens.wbnb,
+  },
+  {
+    pid: 326,
+    lpSymbol: 'BIFI-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3f1A9f3D9aaD8bD339eD4853F345d2eF89fbfE0c',
+    },
+    token: tokens.bifi,
+    quoteToken: tokens.wbnb,
+  },
+  {
+>>>>>>> parent of cfde63a (Update farms.ts)
     pid: 325,
     lpSymbol: 'TXL-BUSD LP',
     lpAddresses: {
